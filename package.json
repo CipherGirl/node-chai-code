@@ -1,0 +1,9 @@
+{
+  "name": "node-chai-code",
+  "version": "1.0.0",
+  "description": "Node.js backend practice from chai aur code channel. Link: https://www.youtube.com/playlist?list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW",
+  "main": "index.js",
+  "repository": "https://github.com/CipherGirl/node-chai-code.git",
+  "author": "Hasna Hena Mow",
+  "license": "MIT"
+}
